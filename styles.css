@@ -129,7 +129,7 @@ Home
 *************************************************************************************************************************************/
 .home-bg {
     /* background: linear-gradient(90deg, var(--white), transparent 70%), url(./images/home-bg.jpg) no-repeat; */
-    background: linear-gradient(90deg, var(--main-colour), transparent 70%), url(./Coffee-Images/karl-chor-UvWlksgZGPE-unsplash.jpg) no-repeat;
+    background: linear-gradient(90deg, var(--main-colour), transparent 70%), url(./Coffee-Images/coffee-cup-crop.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
